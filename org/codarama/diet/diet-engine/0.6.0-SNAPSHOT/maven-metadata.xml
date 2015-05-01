@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.codarama.diet</groupId>
+  <artifactId>diet-engine</artifactId>
+  <version>0.6.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20150501.115110</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20150501115110</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.6.0-20150501.115110-1</value>
+        <updated>20150501115110</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.6.0-20150501.115110-1</value>
+        <updated>20150501115110</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
